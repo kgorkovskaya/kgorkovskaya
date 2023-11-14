@@ -1,6 +1,6 @@
 Hi, I'm Kristina!
 
-I'm a UK-based programmer and data analyst with 10 years experience. I've primarily worked with Python and SQL, though I've also used Java, Matlab and R.
+I'm a UK-based programmer and data analyst with over 10 years of experience. I've primarily worked with Python and SQL, though I've also used Java, Matlab and R.
 
 - 🔭 I’m currently working on building my portfolio and transitioning to data engineering
 - 📫 How to reach me: [linkedin.com/in/kgorkovskaya](https://www.linkedin.com/in/kgorkovskaya/)
