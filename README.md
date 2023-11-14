@@ -1,3 +1,10 @@
+Hi, I'm Kristina!
+
+I'm a UK-based programmer and data analyst with 10 years experience, mainly with Python and SQL, though I've also used Java, Matlab and R.
+
+- 🔭 I’m currently working on building my portfolio and transitioning to data engineering
+- 📫 How to reach me: [linkedin.com/in/kgorkovskaya](https://www.linkedin.com/in/kgorkovskaya/)
+  
 <!--
 **kgorkovskaya/kgorkovskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
